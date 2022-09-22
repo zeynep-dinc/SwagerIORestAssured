@@ -11,12 +11,3 @@ Feature: Store API Tests
       | STORE_DOMAIN_URL | STORE_ORDER_URL     | 1  | GET    | 200  | 'orderId':1                                                                                                         |
       | STORE_DOMAIN_URL | STORE_ORDER_URL     | 1  | DEL    | 200  | 'orderId':1                                                                                                         |
       | STORE_DOMAIN_URL | STORE_INVENTORY_URL |    | GET    | 200  |                                                                                                                     |
-
-
-
-
-
-
-
-
-
