@@ -1,6 +1,6 @@
-Feature: Store API Tests
+Feature: User API Tests
 
-  Scenario Template: send to request with "<method>" for store api
+  Scenario Template: send to request with "<method>" for user api
     * Set to request body for store "<requestBody>" string
     * Send to "<domain>" "<url>" "<id>" request with "<method>" for store api
     * Assert to status code <code>
